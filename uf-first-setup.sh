@@ -1,4 +1,4 @@
-#! /bin/env bash
+#! /bin/env ash
 #
 # Updated by December 15th, 2022
 #
